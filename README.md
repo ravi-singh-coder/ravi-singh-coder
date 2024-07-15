@@ -3,8 +3,8 @@
 
 - ⚡ Fun fact **Did you know that the first computer bug was actually a real bug? In 1947, Grace Hopper and her team found an actual moth stuck in a relay of the Harvard Mark II computer, causing it to malfunction. This event led to the coining of the term "computer bug" to describe software or hardware issues.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
